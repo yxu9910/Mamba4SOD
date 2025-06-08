@@ -1,6 +1,9 @@
 # Salient Maps for Mamba4SOD
 Mamba4SOD: RGB-T Salient Object Detection Using Mamba-Based Fusion Module
 
+[baidu pan](https://pan.baidu.com/s/1wdpAo-fUo42-qiEC8RdUfA) code: ej7i 
+
+
 ## Citation
 ```bibtex
 @article{https://doi.org/10.1049/cvi2.70033,
